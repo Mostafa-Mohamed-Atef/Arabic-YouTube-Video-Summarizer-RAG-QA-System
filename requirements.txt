@@ -1,0 +1,14 @@
+streamlit>=1.32.0
+torch>=2.0.0
+transformers>=4.46.0
+datasets>=2.18.0
+librosa>=0.10.0
+pytubefix>=6.0.0
+sentence-transformers>=2.6.0
+faiss-cpu>=1.7.4
+evaluate>=0.4.1
+jiwer>=3.0.3
+rouge-score>=0.1.2
+accelerate>=0.27.0
+pyyaml>=6.0
+numpy>=1.24.0
